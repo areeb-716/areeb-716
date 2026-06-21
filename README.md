@@ -10,6 +10,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=areeb-716&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=areeb-716&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=areeb-716&icon=8&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
